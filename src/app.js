@@ -1,5 +1,5 @@
-var name = "Prashant Sharma";
-
 function printName () {
-	console.log(name);
+	alert("Welcome to NodeJS ToDo");
 }
+
+printName();
